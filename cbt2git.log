@@ -1,0 +1,59 @@
+2023-08-06 08:22:19.950926 - Initialized conversion of CBT908
+2023-08-06 08:22:20.437378 - Received CBT.V505.FILE908.PDS from FILE908.XMI 
+2023-08-06 08:22:20.439897 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:22:20.441048 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/$$NOTE01
+2023-08-06 08:22:20.441965 - Found $$NOTE02.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/$$NOTE02
+2023-08-06 08:22:20.442959 - Found $$NOTE03.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/$$NOTE03
+2023-08-06 08:22:20.443917 - Found $$NOTE04.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/$$NOTE04
+2023-08-06 08:22:20.444866 - Found $$NOTE05.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/$$NOTE05
+2023-08-06 08:22:20.445858 - Found $README.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/$README
+2023-08-06 08:22:20.446787 - Found @FILE908.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/@FILE908
+2023-08-06 08:22:20.447785 - Found ALLOC.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/ALLOC
+2023-08-06 08:22:20.448685 - Found CDNLD.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/CDNLD
+2023-08-06 08:22:20.449645 - Found CEMAIL.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/CEMAIL
+2023-08-06 08:22:20.450671 - Found CNOTEPAD.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/CNOTEPAD
+2023-08-06 08:22:20.451609 - Found CONCATX.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/CONCATX
+2023-08-06 08:22:20.452525 - Found COPENWTH.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/COPENWTH
+2023-08-06 08:22:20.453425 - Found CWORD.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/CWORD
+2023-08-06 08:22:20.454432 - Found CWORDPAD.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/CWORDPAD
+2023-08-06 08:22:20.455384 - Found DNLD.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/DNLD
+2023-08-06 08:22:20.456238 - Found DNLDACTV.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/DNLDACTV
+2023-08-06 08:22:20.457138 - Found DNLDBTCH.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/DNLDBTCH
+2023-08-06 08:22:20.458058 - Found DNLDHLP1.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/DNLDHLP1
+2023-08-06 08:22:20.459039 - Found DNLDPANL.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/DNLDPANL
+2023-08-06 08:22:20.459964 - Found DNLD00.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/DNLD00
+2023-08-06 08:22:20.460817 - Found DOWNLOAD.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/DOWNLOAD
+2023-08-06 08:22:20.461672 - Found EDNLD.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/EDNLD
+2023-08-06 08:22:20.462629 - Found EEMAIL.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/EEMAIL
+2023-08-06 08:22:20.463573 - Found EMAIL.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/EMAIL
+2023-08-06 08:22:20.464439 - Found EMAIL$.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/EMAIL$
+2023-08-06 08:22:20.465345 - Found EMAILP.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/EMAILP
+2023-08-06 08:22:20.466303 - Found ENOTEPAD.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/ENOTEPAD
+2023-08-06 08:22:20.467283 - Found EOPENWTH.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/EOPENWTH
+2023-08-06 08:22:20.468209 - Found EWORD.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/EWORD
+2023-08-06 08:22:20.469118 - Found EWORDPAD.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/EWORDPAD
+2023-08-06 08:22:20.470130 - Found FILEXFER.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/FILEXFER
+2023-08-06 08:22:20.471033 - Found GOOGLE.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/GOOGLE
+2023-08-06 08:22:20.471986 - Found ISPFCSAL.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/ISPFCSAL
+2023-08-06 08:22:20.473011 - Found ISPFCSDA.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/ISPFCSDA
+2023-08-06 08:22:20.473022 - Found ISPFINST.zip (application/zip), trying to unzip
+2023-08-06 08:22:20.473169 - Found ISPFINST.zip (application/zip), extracting to CBT908/ISPFINST
+2023-08-06 08:22:20.478885 - Found MFEDIT.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/MFEDIT
+2023-08-06 08:22:20.479961 - Found MFEDIT$$.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/MFEDIT$$
+2023-08-06 08:22:20.481010 - Found MFEDITP.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/MFEDITP
+2023-08-06 08:22:20.482030 - Found NOTEPAD.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/NOTEPAD
+2023-08-06 08:22:20.482952 - Found OPENWITH.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/OPENWITH
+2023-08-06 08:22:20.483810 - Found UPLD.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/UPLD
+2023-08-06 08:22:20.484663 - Found UPLDACTV.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/UPLDACTV
+2023-08-06 08:22:20.485570 - Found UPLDBTCH.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/UPLDBTCH
+2023-08-06 08:22:20.486494 - Found UPLDPANL.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/UPLDPANL
+2023-08-06 08:22:20.487339 - Found UPLOAD.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/UPLOAD
+2023-08-06 08:22:20.487348 - Found WIN7WSA.zip (application/zip), trying to unzip
+2023-08-06 08:22:20.487463 - Found WIN7WSA.zip (application/zip), extracting to CBT908/WIN7WSA
+2023-08-06 08:22:20.492928 - Found WORD.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/WORD
+2023-08-06 08:22:20.492940 - Found WORDDOC1.zip (application/zip), trying to unzip
+2023-08-06 08:22:20.492999 - Found WORDDOC1.zip (application/zip), extracting to CBT908/WORDDOC1
+2023-08-06 08:22:20.496954 - Found WORDPAD.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/WORDPAD
+2023-08-06 08:22:20.497966 - Found XFERJCL.jcl (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/XFERJCL
+2023-08-06 08:22:20.498856 - Found XFERPROC.txt (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/XFERPROC
+2023-08-06 08:22:20.499849 - Found XFERREXX.rexx (text/plain) in CBT.V505.FILE908.PDS, moved to PDS/XFERREXX
